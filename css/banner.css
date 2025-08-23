@@ -28,9 +28,10 @@
   font-family: var(--MB);
   font-weight: 700;
   font-size: clamp(1.875rem, 1.102rem + 3.86vw, 4rem);
-  color: #fff;
+  color: var(--white);
   margin-bottom: 30px;
 }
+
 .banner__desc {
   display: -webkit-box;
   -webkit-box-orient: vertical;
